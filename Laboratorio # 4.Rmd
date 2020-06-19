@@ -16,9 +16,9 @@ library(leaflet)
 library(raster)
 # Carga del paquete rgdal
 library(rgdal)
-#
+#$#
 library(knitr)
-#
+#$#
 library(kableExtra)
 
 setwd("A:/Kenneth UCR/Procesamiento de datos geograficos/laboratorio 10")
